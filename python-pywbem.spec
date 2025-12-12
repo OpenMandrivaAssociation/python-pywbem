@@ -1,6 +1,6 @@
 Name:		python-pywbem
 Version:	1.7.2
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/p/pywbem/pywbem-%{version}.tar.gz
 Summary:	pywbem - A WBEM client
 URL:		https://pypi.org/project/pywbem/
